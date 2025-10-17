@@ -30,14 +30,14 @@ Dashboard](https://github.com/yourusername/repo-name/assets/fraud-detection-dash
 ## 🚀 Project Overview
 
 This project detects **fraudulent or anomalous financial transactions**
-using both **statistical** and **machine learning** methods.\
+using both **statistical** and **machine learning** methods.
 The pipeline includes **data cleaning**, **feature engineering**,
 **model training (Isolation Forest, Autoencoders, XGBoost)**, and
 **Power BI dashboards** for monitoring fraud detection KPIs.
 
 Applicable for: - **Banks / FinTech companies** detecting suspicious
-transactions\
-- **E-commerce** fraud prevention\
+transactions
+- **E-commerce** fraud prevention
 - **Insurance claim analysis**
 
 ------------------------------------------------------------------------
