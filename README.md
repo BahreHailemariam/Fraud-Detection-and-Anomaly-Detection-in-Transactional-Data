@@ -45,13 +45,13 @@ transactions\
 ## 💼 Business Problem
 
 Organizations process millions of transactions daily, but fraudulent
-activities often hide within legitimate transactions.\
+activities often hide within legitimate transactions.
 Manual checks are inefficient and reactive.
 
 ### Risks:
 
--   Financial loss\
--   Reputational damage\
+-   Financial loss
+-   Reputational damage
 -   Regulatory non-compliance
 
 The goal is to **automate fraud detection** using advanced anomaly
