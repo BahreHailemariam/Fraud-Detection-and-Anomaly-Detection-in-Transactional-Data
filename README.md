@@ -11,18 +11,18 @@ Dashboard](https://github.com/yourusername/repo-name/assets/fraud-detection-dash
 
 ## 🧩 Table of Contents
 
--   [Project Overview](#-project-overview)\
--   [Business Problem](#-business-problem)\
--   [Objectives](#-objectives)\
--   [Solution Architecture](#-solution-architecture)\
--   [Key Features](#-key-features)\
--   [Tech Stack](#-tech-stack)\
--   [Data Workflow](#-data-workflow)\
--   [Modeling Approach](#-modeling-approach)\
--   [Python Code Examples](#-python-code-examples)\
--   [Power BI Dashboard](#-power-bi-dashboard)\
--   [Results & Evaluation](#-results--evaluation)\
--   [Future Enhancements](#-future-enhancements)\
+-   [Project Overview](#-project-overview)
+-   [Business Problem](#-business-problem)
+-   [Objectives](#-objectives)
+-   [Solution Architecture](#-solution-architecture)
+-   [Key Features](#-key-features)
+-   [Tech Stack](#-tech-stack)
+-   [Data Workflow](#-data-workflow)
+-   [Modeling Approach](#-modeling-approach)
+-   [Python Code Examples](#-python-code-examples)
+-   [Power BI Dashboard](#-power-bi-dashboard)
+-   [Results & Evaluation](#-results--evaluation)
+-   [Future Enhancements](#-future-enhancements)
 -   [Author](#-author)
 
 ------------------------------------------------------------------------
