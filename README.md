@@ -227,10 +227,10 @@ hours and from new devices/locations.
 ------------------------------------------------------------------------
 
 ## 👤 Author
-
-**Bahre Hailemariam**\
+**Bahre Hailemariam**  
 📍 *Data Analyst & BI Developer \| 4+ Years Experience*\
-🔗 [LinkedIn](#) \| [Portfolio](#) \| [GitHub](#)
+📩 [Email Adress](bahre.hail@gmail.com) | 🌐[Portfolio](https://bahre-hailemariam-data-analyst.crd.co/) |💼[LinkedIn](https://www.linkedin.com/in/bahre-hailemariam/) | 📊[GitHub](https://github.com/BahreHailemariam)
+
 
 ------------------------------------------------------------------------
 
